@@ -1,0 +1,9 @@
+[Core]
+Name = Greeter
+Module = greeter
+
+[Documentation]
+Description = Greeter: say hello to new channel members
+
+[Python]
+Version = 2+
